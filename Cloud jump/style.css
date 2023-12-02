@@ -1,0 +1,37 @@
+*{
+    background-image: url(pngtree-playful-garden-week-picture-image_1447788.jpg);
+    background-size: cover;
+}
+.home{
+    width: 600px;
+    height: 680px;
+    background-image: linear-gradient(lightblue,rgb(108, 157, 188));
+    position: relative;
+    font-size: 60px;
+    text-align: center;
+    margin: auto;
+}
+
+.doodler{
+    width: 60px;
+    height: 85px;
+    position: absolute;
+    background-image: url(1994843-200.png);
+}
+
+.platform{
+    width: 100px;
+    height: 15px;
+    background-color: aliceblue;
+    clip-path: polygon(50% 0%, 61% 18%, 68% 9%, 79% 19%, 88% 14%, 100% 30%, 100% 80%, 75% 100%, 30% 100%, 0% 75%, 0% 25%, 8% 11%, 23% 16%, 34% 7%);
+    position: absolute;
+}
+#btn{
+    width: 30%;
+    margin-left: 33.4rem;
+    margin-top: 5px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: rgb(219, 60, 60);
+
+}
